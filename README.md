@@ -2,6 +2,8 @@
 
 An article was written about this project [here](https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
 
-A Frontend was also built with Javascript(VueJS) and deployed to netlify. This is the [url](https://food-app-ddd.netlify.com)
-
 Get frontend github repository [here](https://github.com/victorsteven/food-app-client)
+
+```shell
+sh build.sh | echo $?
+```
