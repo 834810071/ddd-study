@@ -6,7 +6,6 @@ cp script/* output/
 chmod +x output/bootstrap.sh
 
 if [ "$BUILD_TYPE" = "offline" -o "$BUILD_TYPE" = "test" ]; then
-    go install code.byted.org/bet/go_coverage@tiktok_sg
     go_coverage annotate -main-folder=cmd -skip-files=vendor,thrift_gen,clients,swagger_gen,kitex_gen,test*,cronjob
 fi
 
