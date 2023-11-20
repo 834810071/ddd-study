@@ -17,3 +17,5 @@ sh build.sh | echo $?
 [阿里大佬：DDD 领域层，该如何设计？](https://mp.weixin.qq.com/s/njBl791vFCd94UplPJEFKw)
 
 [阿里一面：谈一下你对DDD的理解？2W字，帮你实现DDD自由](https://mp.weixin.qq.com/s?__biz=MzkxNzIyMTM1NQ==&mid=2247489054&idx=1&sn=670863d4522f265b73d0417b01bb2c17&scene=21#wechat_redirect)
+
+[DDD落地：从美团抽奖平台，看DDD在大厂如何落地？](https://mp.weixin.qq.com/s/gvz4QXjtbAkiMetHeH1epw)
