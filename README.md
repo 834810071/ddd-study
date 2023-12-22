@@ -21,3 +21,5 @@ sh build.sh | echo $?
 [DDD落地：从美团抽奖平台，看DDD在大厂如何落地？](https://mp.weixin.qq.com/s/gvz4QXjtbAkiMetHeH1epw)
 
 [DDD落地：京东的微服务生产项目，DDD如何落地？](https://mp.weixin.qq.com/s/Jzc8ZiqYYhZBLzuCQbJJlQ)
+
+[高开面试：给一个需求，请用DDD设计出来](https://mp.weixin.qq.com/s/izzUXIpVmURq6hTCEN0ARQ)
